@@ -20,16 +20,12 @@ Me considero uma pessoa **comunicativa, amigável** e em constante busca por apr
 
 ## 📂 Projetos em Destaque
 
-### 📦 [CatequiGestor](https://github.com/ErikDSilva/CatequiGestor)
-Sistema para o gerenciamento de turmas da catequese, tem como objetivo ajudar os catequistas no gerenciamente de suas turmas. Para o projeto, foram utilizados SpringBoot e Mysql, além de algumas dependências.
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [**CatequiGestor**](https://github.com/ErikDSilva/CatequiGestor) | Sistema para o gerenciamento de turmas da catequese, tem como objetivo ajudar os catequistas no gerenciamente de suas turmas. | Spring Boot, MySQL |
+| [**todo-list-pro**](https://github.com/ErikDSilva/todo-list-pro) | Todo List comum, mas com algumas funcionalidades extras, projeto feito exclusivamente para melhorar habilidades de integração do Backend com o Frontend, além de testar novas formas de organização de código. | React, Spring Boot, MySQL |
+| [**Cine-React**](https://github.com/ErikDSilva/Cine-React) | Projeto em React que consome a API do TMDB para exibir filmes em cartaz. Foi o primeira projeto React realizado por mim, além de ser feito exclusivamente para disciplina de web II | React, TMDB API |
 
-### 📦 [todo-list-pro](https://github.com/ErikDSilva/todo-list-pro)
-Todo List comum, mas com algumas funcionalidades extras, projeto feito exclusivamente para melhorar habilidades de integração do Backend com o Frontend, além de testar novas formas de organização de código. Foram utilizados React, Spring Boot e Mysql.
-
-### 📦 [Cine-React](https://github.com/ErikDSilva/Cine-React)
-Atividade feita para disciplina de Web-II, este foi o primeiro projeto com React realizado por mim, o Cine-React é composto exclusivamente por React e consome a API do The Movie Database para exibir filmes em cartazes.
-
----
 
 ## 📫 Contato
 
