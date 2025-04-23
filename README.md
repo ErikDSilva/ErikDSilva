@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Érik Silva
+# Érik Silva
 
 Sou estudante do **5º semestre de Sistemas para Internet** no **IFPB – Campus Picuí**, com foco em desenvolvimento **backend com Spring Boot**. Também possuo conhecimentos em **frontend com React**, além de familiaridade com **Java**, **Python (Django/Flask)** e **JavaScript**. Grande parte do meu aprendizado foi adquirido por meio de projetos pessoais e iniciativa própria.
 
