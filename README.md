@@ -1,6 +1,6 @@
 # Érik Silva
 
-Sou estudante do **5º semestre de Sistemas para Internet** no **IFPB – Campus Picuí**, com foco em desenvolvimento **backend com Spring Boot**. Também possuo conhecimentos em **frontend com React**, além de familiaridade com **Python (Django/Flask)** e **JavaScript**. Grande parte do meu aprendizado foi adquirido por meio de projetos pessoais e iniciativa própria.
+Desenvolvedor Júnior com foco em desenvolvimento backend **(Java, Spring Boot)** e com boa capacidade de comunicação. Atualmente ministro aulas de informática como bolsista, o que tem contribuído diretamente para o desenvolvimento habilidades interpessoais, como didática e sociabilidade
 
 ---
 
@@ -20,7 +20,6 @@ Sou estudante do **5º semestre de Sistemas para Internet** no **IFPB – Campus
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [**CatequiGestor**](https://github.com/ErikDSilva/CatequiGestor) | Sistema para o gerenciamento de turmas da catequese, tem como objetivo ajudar os catequistas no gerenciamente de suas turmas. | Spring Boot, MySQL |
 | [**todo-list-pro**](https://github.com/ErikDSilva/todo-list-pro) | Todo List comum, mas com algumas funcionalidades extras, projeto feito exclusivamente para melhorar habilidades de integração do Backend com o Frontend, além de testar novas formas de organização de código. | React, Spring Boot, MySQL |
 | [**Cine-React**](https://github.com/ErikDSilva/Cine-React) | Projeto em React que consome a API do TMDB para exibir filmes em cartaz. Foi o primeira projeto React realizado por mim, além de ser feito exclusivamente para disciplina de web II | React, TMDB API |
 
@@ -33,5 +32,3 @@ Sou estudante do **5º semestre de Sistemas para Internet** no **IFPB – Campus
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erikdeoliveiras)
 
 ---
-
-🙏 Obrigado pela visita, passar bem!
