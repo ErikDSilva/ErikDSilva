@@ -1,6 +1,6 @@
 # Érik Silva
 
-Desenvolvedor Júnior com foco em desenvolvimento backend **(Java, Spring Boot)** e com boa capacidade de comunicação. Atualmente ministro aulas de informática como bolsista, o que tem contribuído diretamente para o desenvolvimento habilidades interpessoais, como didática e sociabilidade
+Desenvolvedor Júnior com foco em desenvolvimento backend (Java, Spring Boot), com conhecimentos em Flask e React.
 
 ---
 
